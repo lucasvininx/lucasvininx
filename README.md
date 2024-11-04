@@ -1,3 +1,4 @@
-#### Hi guys, my name's Lucas and I'm most interested by Cars and technology
+#### Hi guys, my name's Lucas Vinícius
 
-👨‍💻
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasvininx&show_icons=true&theme=transparent)
+
